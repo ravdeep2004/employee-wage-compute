@@ -32,6 +32,6 @@ function calculateDailyPay() {
     console.log("----------------------------\n");
 }
 
-calculateDailyPay();
+
 
 module.exports = calculateDailyPay;

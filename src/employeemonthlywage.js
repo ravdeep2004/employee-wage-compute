@@ -36,6 +36,6 @@ function calculateMonthlySalary() {
     console.log("-------------------------------\n");
 }
 
-calculateMonthlySalary();
+
 
 module.exports = calculateMonthlySalary;

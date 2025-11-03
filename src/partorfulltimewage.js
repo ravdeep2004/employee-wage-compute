@@ -49,6 +49,6 @@ function calculateEmployeeWage() {
     console.log("----------------------------\n");
 }
 
-calculateEmployeeWage();
+
 
 module.exports = calculateEmployeeWage;

@@ -37,6 +37,6 @@ function calculateConditionalSalary() {
     console.log("----------------------------------\n");
 }
 
-calculateConditionalSalary();
+
 
 module.exports = calculateConditionalSalary;

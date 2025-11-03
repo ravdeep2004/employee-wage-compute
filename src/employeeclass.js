@@ -37,6 +37,6 @@ function classBasedWageCalc() {
     console.log("----------------------------------\n");
 }
 
-classBasedWageCalc();
+
 
 module.exports = classBasedWageCalc;

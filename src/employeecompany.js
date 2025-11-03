@@ -62,6 +62,6 @@ function processMultipleCompanies() {
     }
 }
 
-processMultipleCompanies();
+
 
 module.exports = processMultipleCompanies;
